@@ -43,5 +43,5 @@ jar {
 jar.dependsOn(copyToLib)
 
 task wrapper(type: Wrapper) {
-    gradleVersion = '1.10'
+    gradleVersion = '4.8.1'
 }
